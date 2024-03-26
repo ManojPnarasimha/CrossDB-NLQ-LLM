@@ -1,0 +1,7 @@
+langchain
+langchain-experimental
+langchain-community
+langchain-google-genai
+psycopg2
+python-dotenv
+SQLAlchemy==2.0.28
